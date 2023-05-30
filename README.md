@@ -1,7 +1,7 @@
 # About
 
 - Vladut Dinu
-- 22 y.o. 👦🏻
+- 23 y.o. 👦🏻
 - Electical and Computer Engineer 👨🏻‍🎓
 - [LinkedIn Profile](https://www.linkedin.com/in/vladut-dinu-a32742214/) 🔎
 - Passioned about teaching 👨🏻‍🏫
