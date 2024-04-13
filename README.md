@@ -1,8 +1,8 @@
 # About
 
 - Vladut Dinu
-- 23 y.o. 👦🏻
-- Electical and Computer Engineer 👨🏻‍🎓
+- 24 y.o. 👦🏻
+- Cybersecurity Engineer👨🏻‍🎓
 - [LinkedIn Profile](https://www.linkedin.com/in/vladut-dinu-a32742214/) 🔎
 - Passioned about teaching 👨🏻‍🏫
 
@@ -20,8 +20,8 @@
 # Current activities
 
 - Currently working on:
-  - A Python begginers course 📄
-  - Some kind of IoT Smart Database 🌞🏭
+  - [Electrify](https://www.linkedin.com/company/electrify-romania/?viewAsMember=true) 🏭
+  - Various hackathons 🌞
 
 # Contact
 
